@@ -1,0 +1,2 @@
+# NewsSearchApp
+GROUP PROJECT ONE
