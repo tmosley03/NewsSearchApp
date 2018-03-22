@@ -23,6 +23,7 @@ $.ajax({
     $("#articleSpace").append(newThumb);
 });
 
+
 //============== Firebase ===================//
 
 var config = {
