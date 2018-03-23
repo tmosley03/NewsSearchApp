@@ -18,4 +18,3 @@ $.ajax({
     var newThumb = $("<img>").attr("src", article);
     $("#articleSpace").append(newThumb);
 });
-
